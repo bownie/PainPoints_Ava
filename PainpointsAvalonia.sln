@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PainpointsAvalonia", "PainpointsAvalonia\PainpointsAvalonia\PainpointsAvalonia.csproj", "{1554848B-D77D-435A-8E1B-3E660B693A91}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PainpointsAvalonia.Android", "PainpointsAvalonia\PainpointsAvalonia.Android\PainpointsAvalonia.Android.csproj", "{556BE41D-C469-422B-9C8F-8241B912B355}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PainpointsAvalonia.Desktop", "PainpointsAvalonia\PainpointsAvalonia.Desktop\PainpointsAvalonia.Desktop.csproj", "{B8F89E8D-E4BC-45A1-9F89-A0699A858DE1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PainpointsAvalonia.iOS", "PainpointsAvalonia\PainpointsAvalonia.iOS\PainpointsAvalonia.iOS.csproj", "{A9C6B61B-A778-44B2-861D-D7004DC9F79A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PainpointsAvalonia.Browser", "PainpointsAvalonia\PainpointsAvalonia.Browser\PainpointsAvalonia.Browser.csproj", "{87DE9A2B-9F29-4E3E-B2E2-56F68F023A23}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1554848B-D77D-435A-8E1B-3E660B693A91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1554848B-D77D-435A-8E1B-3E660B693A91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1554848B-D77D-435A-8E1B-3E660B693A91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1554848B-D77D-435A-8E1B-3E660B693A91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{556BE41D-C469-422B-9C8F-8241B912B355}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{556BE41D-C469-422B-9C8F-8241B912B355}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{556BE41D-C469-422B-9C8F-8241B912B355}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{556BE41D-C469-422B-9C8F-8241B912B355}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{556BE41D-C469-422B-9C8F-8241B912B355}.Release|Any CPU.Build.0 = Release|Any CPU
+		{556BE41D-C469-422B-9C8F-8241B912B355}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{B8F89E8D-E4BC-45A1-9F89-A0699A858DE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8F89E8D-E4BC-45A1-9F89-A0699A858DE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8F89E8D-E4BC-45A1-9F89-A0699A858DE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8F89E8D-E4BC-45A1-9F89-A0699A858DE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9C6B61B-A778-44B2-861D-D7004DC9F79A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9C6B61B-A778-44B2-861D-D7004DC9F79A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9C6B61B-A778-44B2-861D-D7004DC9F79A}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{A9C6B61B-A778-44B2-861D-D7004DC9F79A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9C6B61B-A778-44B2-861D-D7004DC9F79A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9C6B61B-A778-44B2-861D-D7004DC9F79A}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{87DE9A2B-9F29-4E3E-B2E2-56F68F023A23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87DE9A2B-9F29-4E3E-B2E2-56F68F023A23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87DE9A2B-9F29-4E3E-B2E2-56F68F023A23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87DE9A2B-9F29-4E3E-B2E2-56F68F023A23}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
